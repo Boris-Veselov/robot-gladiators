@@ -25,7 +25,9 @@ A combat simulator game called Robot Gladiators. During the game, players will c
 
 ## Preview
 
-## Website Link
+<img width="971" alt="Screen Shot 2022-10-17 at 11 42 46 AM" src="https://user-images.githubusercontent.com/96749114/196222362-1ea61064-4a12-459f-ba99-8848f4b67dd8.png">
+
+## Website-link
 
 https://boris-veselov.github.io/robot-gladiators/
 
