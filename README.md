@@ -31,10 +31,6 @@ A combat simulator game called Robot Gladiators. During the game, players will c
 
 https://boris-veselov.github.io/robot-gladiators/
 
-## Usage
-
-To run it locally, open it http://localhost:3000 to view it in your browser by running npm run develop
-
 ## Contribution
 
 Boris Veselov
